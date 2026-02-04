@@ -3,7 +3,6 @@ class Program
 {
         static void Main(string[] args)
         {
-        //int a = int.Parse(Console.ReadLine());
         string input = Console.ReadLine();
         string Number = input;
         int Count = 0;
@@ -36,4 +35,5 @@ class Program
         Console.ReadLine();
 
     }
+
 }
